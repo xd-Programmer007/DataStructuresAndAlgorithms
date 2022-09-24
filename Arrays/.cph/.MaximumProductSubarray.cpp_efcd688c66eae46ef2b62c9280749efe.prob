@@ -1,0 +1,1 @@
+{"name":"Local: MaximumProductSubarray","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\MaximumProductSubarray.cpp","tests":[{"id":1652145861884,"input":"1\n5\n-1 2 -3 -4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\MaximumProductSubarray.cpp","group":"local","local":true}

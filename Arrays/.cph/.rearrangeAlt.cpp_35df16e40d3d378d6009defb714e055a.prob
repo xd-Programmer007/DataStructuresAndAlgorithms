@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"name":"Local: rearrangeAlt","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\rearrangeAlt.cpp","tests":[{"id":1652009760927,"input":"1\n5\n2 -1 3 4 -5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\rearrangeAlt.cpp","group":"local","local":true}
+=======
+{"name":"Local: rearrangeAlt","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\rearrangeAlt.cpp","tests":[{"id":1652009760927,"input":"1\n5\n2 -1 3 4 -5","output":""},{"id":1652404133405,"input":"1\n9\n9 4 -2 -1 5 0 -5 -3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\rearrangeAlt.cpp","group":"local","local":true}
+>>>>>>> 153d3cd696b847e0c0fc31a81740ff28ebbb7710

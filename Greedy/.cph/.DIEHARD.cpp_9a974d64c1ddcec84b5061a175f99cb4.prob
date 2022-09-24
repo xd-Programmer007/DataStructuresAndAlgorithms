@@ -1,0 +1,1 @@
+{"name":"Local: DIEHARD","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Greedy\\DIEHARD.cpp","tests":[{"id":1656615399139,"input":"3\n2 10\n4 4\n20 8","output":"1\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Greedy\\DIEHARD.cpp","group":"local","local":true}

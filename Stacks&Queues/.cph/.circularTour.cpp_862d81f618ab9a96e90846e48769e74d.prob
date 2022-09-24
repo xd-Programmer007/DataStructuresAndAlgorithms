@@ -1,0 +1,1 @@
+{"name":"Local: circularTour","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Stacks&Queues\\circularTour.cpp","tests":[{"id":1655684366596,"input":"4\n4 3 5 7 1 2 3 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Stacks&Queues\\circularTour.cpp","group":"local","local":true}

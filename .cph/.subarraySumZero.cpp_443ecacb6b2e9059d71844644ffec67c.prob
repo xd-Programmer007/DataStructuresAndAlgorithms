@@ -1,0 +1,1 @@
+{"name":"Local: subarraySumZero","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\subarraySumZero.cpp","tests":[{"id":1652199271202,"input":"1\n5\n1 -2 -3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\subarraySumZero.cpp","group":"local","local":true}

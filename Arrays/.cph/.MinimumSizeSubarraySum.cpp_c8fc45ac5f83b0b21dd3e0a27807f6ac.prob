@@ -1,0 +1,1 @@
+{"name":"Local: MinimumSizeSubarraySum","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\MinimumSizeSubarraySum.cpp","tests":[{"id":1652493561152,"input":"1\n6 7\n2 3 1 2 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\MinimumSizeSubarraySum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MovNegs","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\MovNegs.cpp","tests":[{"id":1651776006917,"input":"1\n9\n1 2 -1 -2 1 2 3 -3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA450\\Arrays\\MovNegs.cpp","group":"local","local":true}

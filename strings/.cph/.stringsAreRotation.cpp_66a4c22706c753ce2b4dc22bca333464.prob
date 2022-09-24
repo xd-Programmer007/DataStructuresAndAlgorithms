@@ -1,0 +1,1 @@
+{"name":"Local: stringsAreRotation","url":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA\\strings\\stringsAreRotation.cpp","tests":[{"id":1650681198876,"input":"ABCD CDBA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tiwar\\OneDrive\\Desktop\\DSA\\strings\\stringsAreRotation.cpp","group":"local","local":true}
